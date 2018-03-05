@@ -9,4 +9,24 @@ class MainTest {
     @Test
     void main() {
     }
+
+    @Test
+    void main1() {
+    }
+
+    @Test
+    void lineprocessor() {
+    }
+
+    @Test
+    void monthNumber() {
+    }
+
+    @Test
+    void greaterDate() {
+    }
+
+    @Test
+    void calculateDiff() {
+    }
 }
